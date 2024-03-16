@@ -7,6 +7,7 @@ competition Competition;
 double degToInch(double degrees) {
   return ((degrees / 360) * 2.9 * 3.1416 );
 }
+
 int rapid=0;
 bool overRapid=false;
 bool skily=false;
@@ -1042,3 +1043,6 @@ int main() {
     wait(100, msec);
   }
 }
+
+
+// noah from x team wuz heer
